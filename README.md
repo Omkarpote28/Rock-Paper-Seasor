@@ -26,7 +26,7 @@ This repository contains a simple implementation of the classic Rock-Paper-Sciss
 
 ## Code Structure
 
-- `rock_paper_scissors.py`: This is the main Python script that contains the game logic. It generates a random move for the computer, takes user input, and determines the winner.
+[rock_paper_scissors.py](https://github.com/Omkarpote28/Chronicles-Oceanic-Clash/blob/main/rock_paper_Scissors.py)`: This is the main Python script that contains the game logic. It generates a random move for the computer, takes user input, and determines the winner.
 
 ## Rules
 
