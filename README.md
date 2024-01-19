@@ -1,5 +1,4 @@
-# Chronicles-Oceanic-Clash
-
+# Rock-Paper-Scissors
 1. **Shinju (真珠):** Japanese for "Pearl," often symbolizing purity and beauty.
   
 2. **Kami (紙):** Japanese for "Paper."
