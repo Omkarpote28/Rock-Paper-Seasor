@@ -1,12 +1,3 @@
-# Rock-Paper-Scissors
-1. **Shinju (真珠):** Japanese for "Pearl," often symbolizing purity and beauty.
-  
-2. **Kami (紙):** Japanese for "Paper."
-
-3. **Hasami (ハサミ):** Japanese for "Scissors."
-
-Combining these elements, "Shinju Kami Hasami Chronicles: Oceanic Clash" suggests a game where the themes of purity, paper, and scissors are intertwined in an oceanic setting, promising a unique and engaging storyline or gameplay in a maritime environment.
-
 # Rock-Paper-Scissors Game
 
 This repository contains a simple implementation of the classic Rock-Paper-Scissors game in Python. The game allows a user to play against a computer opponent, where the user can choose either "Shinju" (stone), "Kami" (paper), or "Hasami" (scissors), and the computer randomly selects its move. The winner is determined based on the traditional rules of Rock-Paper-Scissors.
